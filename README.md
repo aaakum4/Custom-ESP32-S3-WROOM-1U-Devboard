@@ -13,3 +13,5 @@ A possible later addition
 - Switch (https://jlcpcb.com/partdetail/XUNPU-TS_1088AR02016/C720477)
 
 - https://www.arrow.com/en/products/1040310811/molex?utm_source=chatgpt.com
+
+- https://core-electronics.com.au/male-pin-header-2-54mm-1x40.html
