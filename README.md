@@ -11,3 +11,5 @@ A possible later addition
 - USB-C Power (https://jlcpcb.com/partdetail/Korean_HropartsElec-TYPE_C_31_M12/C165948)
 
 - Switch (https://jlcpcb.com/partdetail/XUNPU-TS_1088AR02016/C720477)
+
+- https://www.arrow.com/en/products/1040310811/molex?utm_source=chatgpt.com
